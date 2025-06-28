@@ -15,6 +15,7 @@ This project analyzes student scores from a dataset, performing several operatio
 ## Instructions to Run the Notebook in VS Code
 
 Follow these steps to set up and run the project in Visual Studio Code:
+- Use Windows. Mac, or Linux to run the project
 
 ### 1. Prerequisites
 - Python installed on your system. Download from [Python.org](https://www.python.org/downloads/).
